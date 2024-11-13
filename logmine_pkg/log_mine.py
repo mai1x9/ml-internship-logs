@@ -2,15 +2,10 @@ from .processor import Processor
 from .output import Output
 from .debug import log
 
-
 class LogMine():
     def __init__(self, processor_config, cluster_config, output_options):
-        log(
-            "LogMine: init with config:",
-            processor_config,
-            cluster_config, output_options
-        )
-        self.processor = Processor(processor_config, cluster_config)
+        log("LogMine: init with config:", processor_config, cluster_config, output_options)
+        self.processor = Processor(processor_config, cluster_config)  # Adjusted to use default db config
         self.output = Output(output_options)
 
     def run(self, files):
