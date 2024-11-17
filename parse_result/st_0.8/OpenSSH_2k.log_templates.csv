@@ -1,0 +1,136 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+7b7b32a9,Invalid user webmaster from <*>,2
+6b674ff1,input_userauth_request: invalid user <*> [preauth],113
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+ebf067b7,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= <*>,110
+2ff7d27f,Failed password for invalid user webmaster from <*> port <*> ssh<*>,2
+2491ca3e,Connection closed by <*> [preauth],34
+4d525d0f,Invalid user test9 from <*>,1
+4cb65dc8,Failed password for invalid user test9 from <*> port <*> ssh<*>,1
+6844638c,Received disconnect from <*> <*>: Bye Bye [preauth],413
+f602b8d9,Invalid user chen from <*>,1
+791c3147,Failed password for invalid user chen from <*> port <*> ssh<*>,1
+533c6615,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= <*> <*>,384
+335e5c25,Failed password for root from <*> port <*> ssh<*>,368
+b542638e,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2],2
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],3
+baeb51b0,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= <*> user=root,2
+2f2318e5,PAM service(sshd) ignoring max retries; <*> > <*>,7
+020eef70,Invalid user pgadmin from <*>,1
+6a4bf597,Failed password for invalid user pgadmin from <*> port <*> ssh<*>,1
+4459c33b,Invalid user utsims from <*>,1
+1d3b96f2,Failed password for invalid user utsims from <*> port <*> ssh<*>,1
+c926c7d9,Did not receive identification string from <*>,10
+2518e786,Invalid user inspur from <*>,3
+cd91cfda,Failed password for invalid user inspur from <*> port <*> ssh<*>,3
+71043aee,Invalid user support from <*>,6
+3df13cc4,Failed password for invalid user support from <*> port <*> ssh<*>,6
+90101fdc,error: Received disconnect from <*> <*>: com.jcraft.jsch.JSchException: Auth fail [preauth],2
+381de5fa,Failed password for uucp from <*> port <*> ssh<*>,5
+22aaf03f,Invalid user test from <*>,5
+db4ca1a4,Failed password for invalid user test from <*> port <*> ssh<*>,5
+189f897e,Received disconnect from <*> <*>: Closed due to user request. [preauth],7
+9302fad4,Invalid user <*> from <*>,10
+f0ba90fe,Failed password for invalid user <*> from <*> port <*> ssh<*>,8
+228762aa,Failed none for invalid user <*> from <*> port <*> ssh<*>,3
+684a54a6,Invalid user admin from <*>,21
+805088b5,Failed none for invalid user admin from <*> port <*> ssh<*>,1
+8cbd5852,Failed password for invalid user admin from <*> port <*> ssh<*>,44
+e5a48069,PAM <*> more authentication <*> logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>,8
+78691a03,Invalid user default from <*>,1
+013c1df2,Failed password for invalid user default from <*> port <*> ssh<*>,2
+a4b96102,Failed password for ftp from <*> port <*> ssh<*>,3
+17d4e525,Invalid user guest from <*>,3
+8c402db1,Failed password for invalid user guest from <*> port <*> ssh<*>,3
+f5e1f5ce,Invalid user matlab from <*>,3
+f81ee948,Failed password for invalid user matlab from <*> port <*> ssh<*>,3
+effd4a15,error: Received disconnect from <*> <*>: No more user authentication methods available. [preauth],45
+3c0c530c,Invalid user user from <*>,4
+d448ac0c,Failed password for invalid user user from <*> port <*> ssh<*>,4
+308aadfc,Invalid user anonymous from <*>,2
+12d09e6f,Failed password for invalid user anonymous from <*> port <*> ssh<*>,2
+de560f20,Invalid user ubnt from <*>,2
+541bafb7,Failed password for invalid user ubnt from <*> port <*> ssh<*>,2
+af5be948,Failed password for sshd from <*> port <*> ssh<*>,2
+68818261,Invalid user cisco from <*>,2
+fa014392,Failed password for invalid user cisco from <*> port <*> ssh<*>,2
+3eede9e8,Invalid user operator from <*>,1
+1fa3c4f8,Failed password for invalid user operator from <*> port <*> ssh<*>,1
+7c51f37c,Invalid user monitor from <*>,1
+71d126f5,Failed password for invalid user monitor from <*> port <*> ssh<*>,1
+65cd5b15,Invalid user ftpuser from <*>,2
+5261c57a,Failed password for invalid user ftpuser from <*> port <*> ssh<*>,2
+8dbde17c,Invalid user pi from <*>,1
+ffaa47c4,Failed password for invalid user pi from <*> port <*> ssh<*>,1
+f9e9da0f,Invalid user PlcmSpIp from <*>,1
+b27dddcb,Failed password for invalid user PlcmSpIp from <*> port <*> ssh<*>,1
+680dc4b3,Invalid user Management from <*>,1
+5e97afb0,Failed password for invalid user Management from <*> port <*> ssh<*>,1
+7e68c82e,Invalid user api from <*>,1
+fbe45f09,Failed password for invalid user api from <*> port <*> ssh<*>,1
+46b435d9,Invalid user eoor from <*>,1
+bde014bf,Failed password for invalid user eoor from <*> port <*> ssh<*>,1
+95570db7,Invalid user butter from <*>,1
+897b1628,Failed password for invalid user butter from <*> port <*> ssh<*>,1
+b4ece164,Invalid user redhat from <*>,1
+4de33bec,Failed password for invalid user redhat from <*> port <*> ssh<*>,1
+9eef0462,Invalid user oracle from <*>,6
+6f777e86,Failed password for invalid user oracle from <*> port <*> ssh<*>,6
+e6a9077b,Invalid user postgres from <*>,1
+fe13c0a6,Failed password for invalid user postgres from <*> port <*> ssh<*>,1
+6301b11c,Invalid user nagios from <*>,1
+c10491e8,Failed password for invalid user nagios from <*> port <*> ssh<*>,1
+aa4bc2c6,Invalid user www from <*>,1
+0714ac53,Failed password for invalid user www from <*> port <*> ssh<*>,1
+6ba62ae1,Invalid user abc from <*>,1
+29801d96,Failed password for invalid user abc from <*> port <*> ssh<*>,1
+5f2b6ea7,Invalid user ted from <*>,1
+a93880e5,Failed password for invalid user ted from <*> port <*> ssh<*>,1
+81f3c5c9,Invalid user vnc from <*>,1
+48dfea75,Failed password for invalid user vnc from <*> port <*> ssh<*>,1
+e2fe7931,Failed password for git from <*> port <*> ssh<*>,3
+41d40d97,Invalid user ghost from <*>,1
+826e189e,Failed password for invalid user ghost from <*> port <*> ssh<*>,1
+b43270b4,Invalid user ubuntu from <*>,2
+5cad0dc7,Failed password for invalid user ubuntu from <*> port <*> ssh<*>,2
+dc03fffc,Invalid user deploy from <*>,2
+63873ec3,Failed password for invalid user deploy from <*> port <*> ssh<*>,2
+205f3a77,Invalid user oralce from <*>,1
+0e9ac028,Failed password for invalid user oralce from <*> port <*> ssh<*>,1
+fd0b83e9,Invalid user nagios1 from <*>,1
+0d56ff3c,Failed password for invalid user nagios1 from <*> port <*> ssh<*>,1
+fe27e378,Invalid user postgres1 from <*>,1
+6a7c3300,Failed password for invalid user postgres1 from <*> port <*> ssh<*>,1
+a752ed47,Invalid user test1 from <*>,1
+c946de9d,Failed password for invalid user test1 from <*> port <*> ssh<*>,1
+ee98a0fe,Invalid user test2 from <*>,1
+1a9e497f,Failed password for invalid user test2 from <*> port <*> ssh<*>,1
+5995ce49,Invalid user bssh from <*>,1
+087f1b31,Failed password for invalid user bssh from <*> port <*> ssh<*>,1
+9adcedc5,Failed password for mysql from <*> port <*> ssh<*>,2
+ec8e2e01,Invalid user magnos from <*>,2
+34ee4316,Failed password for invalid user magnos from <*> port <*> ssh<*>,2
+d19a190c,Invalid user ingrid from <*>,1
+88633599,Failed password for invalid user ingrid from <*> port <*> ssh<*>,1
+8506b36d,Invalid user jay from <*>,1
+e5322e0d,Failed password for invalid user jay from <*> port <*> ssh<*>,1
+b6162d47,Invalid user cyrus from <*>,1
+7dff3278,Failed password for invalid user cyrus from <*> port <*> ssh<*>,1
+0af30132,Invalid user FILTER from <*>,1
+b6489278,Failed password for invalid user FILTER from <*> port <*> ssh<*>,1
+bfd464ee,Accepted password for fztu from <*> port <*> ssh<*>,1
+cb82654d,pam_unix(sshd:session): session opened for user fztu by (uid=<*>),1
+eba81a50,Received disconnect from <*> <*>: disconnected by user,1
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+f26cdc04,Invalid user zhangyan from <*>,1
+e8c2c1de,Failed password for invalid user zhangyan from <*> port <*> ssh<*>,1
+90e7ca09,Invalid user dff from <*>,1
+488b2c5c,Failed password for invalid user dff from <*> port <*> ssh<*>,1
+8a78dcbf,Invalid user cheng from <*>,1
+9b489302,Failed password for invalid user cheng from <*> port <*> ssh<*>,1
+950d3008,Invalid user boot from <*>,1
+01dc5e36,Failed password for invalid user boot from <*> port <*> ssh<*>,1
+43ed54fb,Invalid user sandeep from <*>,1
+52c0b8a4,Failed password for invalid user sandeep from <*> port <*> ssh<*>,1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1
