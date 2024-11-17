@@ -1,0 +1,3 @@
+[submodule "Log-based-Anomaly-Detection-System"]
+	path = Log-based-Anomaly-Detection-System
+	url = https://github.com/autumn0409/Log-based-Anomaly-Detection-System.git
