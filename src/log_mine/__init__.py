@@ -1,1 +1,0 @@
-from logmine_pkg.log_mine import LogMine
