@@ -1,8 +1,0 @@
-.DS_Store
-*.log
-.v
-*.pyc
-*.egg-info/
-build/
-dist/
-logmine_pkg/__pycache__
